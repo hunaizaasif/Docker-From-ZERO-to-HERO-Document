@@ -1,5 +1,5 @@
 # Docker-From-ZERO-to-HERO-Document
-https://spiffy-palladium-3c4.notion.site/THE-ULTIMATE-PIZZA-DELIVERY-API-Docker-From-ZERO-to-HERO-2e9da4c6641180829916e162617da6b3?pvs=143
+
 # THE ULTIMATE PIZZA DELIVERY API: Docker From ZERO to HERO
 
 > Learn Docker by building a real pizza delivery business API - Complete Guide in One File!
@@ -1093,3 +1093,7 @@ Keep practicing, keep learning, and most importantly - **keep shipping!**
 *By: Hamzah*
 
 *Pizza Delivery API: From Zero to Production in One Complete Guide*
+BOOK LINKS:Notion Guide: The ultimate pizza delivery api: Docker from zero to hero
+https://spiffy-palladium-3c4.notion.site/THE-ULTIMATE-PIZZA-DELIVERY-API-Docker-From-ZERO-to-HERO-2e9da4c6641180829916e162617da6b3?pvs=143
+Agent Factory: Chapter 49: Docker for AI Services
+Agent Factory: Chapter 50: Kubernetes for AI Services 
